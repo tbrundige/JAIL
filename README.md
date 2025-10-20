@@ -1,4 +1,4 @@
-JAIL - Just Another Interrupted Language
+JAIL - Just Another Interpreted Language
 
 This is a tiny interpreter for the JAIL language implemented in C with no external libraries.
 
